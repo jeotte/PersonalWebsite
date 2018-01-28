@@ -1,0 +1,39 @@
+.features .glyphicon {
+	font-size: 32px;
+	color: red;
+}
+
+p { font-size: 18px; }
+
+.sectionTitle {
+	font-size: 32px;
+	font-weight: bold;
+	color: #655665;
+	margin-bottom: 30px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+body { 
+	font-weight: 300;
+	background-color: #655665;
+}
+
+.navMenuBar {
+	background-color: #D4D4D4;
+	border: none;
+}
+
+.thumbnail {
+    position: relative;
+    padding: 0px;
+    margin-bottom: 20px;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.outerDiv {
+	overflow: hidden;
+}
