@@ -16,8 +16,9 @@
 			</div>
 			<br /><br />
 			<div class='row'>
-			<p>I'm a software developer currently living in Folsom, California and working for <a href='http://www.panduit.com' target='_blank'>Panduit.</a></p>
-			<br /><br />
+			<p>I'm a software developer currently living in Folsom, California and working for <a href='http://www.panduit.com' target='_blank'>Panduit</a>.</p>
+			<p>I have recently been working on a budget web page to keep track of spending, and am doing it mainly as a way to learn Kotlin and Thymeleaf (which has been a lot of fun so far).  The project is still very much in progress, not at all close to being done, but the code can be viewed on my <a href='https://github.com/jeotte'>github</a>.</p>
+			<br />
 			<p>Please feel free to check out my <a href='resume.php'>resume</a> and <a href='contact.php'>contact me</a>!</p>
 			</div>
 		</div>
